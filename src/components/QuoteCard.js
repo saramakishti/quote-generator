@@ -5,7 +5,9 @@ const QouteCard = ({ quote, onClick }) => {
 		<div className='quote-body'>
 			<div className='quote'>
 				<blockquote>{quote ? quote.saying : "Try Again..."}</blockquote>
-				{quote && <p className='author-citation'>{quote.author}</p>}
+				<p className='author-citation'>
+					{quote ? quote.author : "Quote Generator"}
+				</p>
 			</div>
 			<div className='generator-button'>
 				<button className='generator-button' onClick={onClick}>

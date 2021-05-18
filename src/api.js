@@ -129,4 +129,14 @@ export const API = [
 		saying: "Ra ne depresion",
 		author: "Elitjon Metaliaj",
 	},
+	{
+		id: 27,
+		saying: "Gjeste...",
+		author: "Elitjon Metaliaj",
+	},
+	{
+		id: 28,
+		saying: "Degjo ujkun e vjeter",
+		author: "Elitjon Metaliaj",
+	},
 ];
