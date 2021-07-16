@@ -16,7 +16,7 @@ export const API = [
 	},
 	{
 		id: 4,
-		saying: "If You know, you know",
+		saying: "If you know, you know",
 		author: "Elitjon Metaliaj",
 	},
 	{
@@ -61,7 +61,7 @@ export const API = [
 	},
 	{
 		id: 13,
-		saying: "5 here 4 26",
+		saying: "Nuk ka bugs frontend-i",
 		author: "Elitjon Metaliaj",
 	},
 	{
@@ -137,6 +137,16 @@ export const API = [
 	{
 		id: 28,
 		saying: "Degjo ujkun e vjeter",
+		author: "Elitjon Metaliaj",
+	},
+	{
+		id: 29,
+		saying: "Une jam transparent si PNG",
+		author: "Elitjon Metaliaj",
+	},
+	{
+		id: 30,
+		saying: "O goce...",
 		author: "Elitjon Metaliaj",
 	},
 ];
