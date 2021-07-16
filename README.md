@@ -1,6 +1,6 @@
 # Quote Generator Application
 
-Use this app to generate random quotes by `when you know you know`
+Use this app to generate random quotes by `if you know you know`
 
 ## Commands to use
 
