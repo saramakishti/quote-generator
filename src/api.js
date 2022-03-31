@@ -149,4 +149,10 @@ export const API = [
 		saying: "O goce...",
 		author: "Elitjon Metaliaj",
 	},
+		
+	{
+		id: 31,
+		saying: "Provoje tani...puff",
+		author: "Elitjon Metaliaj",
+	},
 ];
