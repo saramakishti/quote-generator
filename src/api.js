@@ -160,4 +160,9 @@ export const API = [
 		saying: "Perfect!",
 		author: "Elitjon Metaliaj",
 	},
+		{
+		id: 33,
+		saying: "Ti me mban pishtarin mua?! Kthehu moj para aty ",
+		author: "Eklent Ismaili",
+	},
 ];
