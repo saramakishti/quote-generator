@@ -155,4 +155,9 @@ export const API = [
 		saying: "Provoje tani...puff",
 		author: "Elitjon Metaliaj",
 	},
+	{
+		id: 32,
+		saying: "Perfect!",
+		author: "Elitjon Metaliaj",
+	},
 ];
